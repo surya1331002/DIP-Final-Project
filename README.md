@@ -2,7 +2,7 @@ Python Environment needed: VS code
 
 vs code version: x64-1.87.2
 
-Install codes:
+Install Commands:
 
 pip install Flask
 
