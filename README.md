@@ -1,4 +1,11 @@
 Python Environment needed: VS code
+vs code version: x64-1.87.2
+
+Install codes:
+pip install Flask
+pip install opencv-python
+pip install numpy
+open the entire folder in vs code, run these 3 following codes in vs code terminal
 
 All the required libraries have been imported in the first section of the code, run the first cell to include them.
 
